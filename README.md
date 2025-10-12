@@ -10,7 +10,7 @@ It also explores **early-bird opportunities** and includes a **churn prediction 
 - Analyze daily and monthly sales & revenue trends
 - Identify seasonality and demand patterns
 - Provide data-driven recommendations for early-bird discounts
-- (Optional) Churn prediction using logistic regression
+- Churn prediction using logistic regression
 
   some figures:
 
