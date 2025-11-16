@@ -12,9 +12,3 @@ It also explores **early-bird opportunities** and includes a **churn prediction 
 - Provide data-driven recommendations for early-bird discounts
 - Churn prediction using logistic regression
 
-  some figures:
-
-  <img width="1120" height="507" alt="image" src="https://github.com/user-attachments/assets/414b970d-c0b4-4bc4-b2df-4dcb05ec45ae" />
-  <img width="821" height="508" alt="image" src="https://github.com/user-attachments/assets/23a629a9-b90a-4338-ac85-d3139965e648" />
-
-  
